@@ -1,0 +1,146 @@
+[
+  {
+    "roll_number": "2401920100186",
+    "name": "Lavish Kumar",
+    "branch": "CSE",
+    "error": "Incomplete or invalid marks: 0 / 500, 200 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:43.045Z"
+  },
+  {
+    "roll_number": "2401920100244",
+    "name": "Prince Tomar",
+    "branch": "CSE",
+    "error": "Incomplete or invalid marks: 100 / 500, 245 [Not Considered] / 500, 239 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:45.013Z"
+  },
+  {
+    "roll_number": "2401920130178",
+    "name": "Shivam Maurya",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 300 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:45.467Z"
+  },
+  {
+    "roll_number": "2401921520078",
+    "name": "Bharat Chauhan",
+    "branch": "CSAI",
+    "error": "Incomplete or invalid marks: 0 / 500, 100 / 500, 210 [Not Considered] / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:45.973Z"
+  },
+  {
+    "roll_number": "2401921520101",
+    "name": "Divyansh Kachangal",
+    "branch": "CSAI",
+    "error": "Incomplete or invalid marks: 110 / 500, 345 [Not Considered] / 500, 160 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:46.342Z"
+  },
+  {
+    "roll_number": "2401921520102",
+    "name": "Divyansh Maurya",
+    "branch": "CSAI",
+    "error": "Incomplete or invalid marks: 0 / 500, 100 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:48.080Z"
+  },
+  {
+    "roll_number": "2401921520181",
+    "name": "Piyush Kumar",
+    "branch": "CSAI",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 100 [Not Considered] / 500, 10 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:49.174Z"
+  },
+  {
+    "roll_number": "2401921530190",
+    "name": "Rahul Sharma",
+    "branch": "CSAIML",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 100 [Not Considered] / 500, 100 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:49.679Z"
+  },
+  {
+    "roll_number": "2401921530250",
+    "name": "Soham Gautam",
+    "branch": "CSAIML",
+    "error": "Incomplete or invalid marks: 0 / 500, 300 [Not Considered] / 500, 0 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:49.133Z"
+  },
+  {
+    "roll_number": "2401921530287",
+    "name": "Yash Vardhan Mishra",
+    "branch": "CSAIML",
+    "error": "Incomplete or invalid marks: 0 / 500, 300 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:52.639Z"
+  },
+  {
+    "roll_number": "2401921540053",
+    "name": "Anurag Parashar",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: 0 / 500, 300 [Not Considered] / 500, 0 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:51.954Z"
+  },
+  {
+    "roll_number": "2401921540117",
+    "name": "Harsh Vardhan Mishra",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: 0 / 500, 300 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:53.906Z"
+  },
+  {
+    "roll_number": "2401921540127",
+    "name": "Jayant Kumar",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: 0 / 500, 240 [Not Considered] / 500, 10 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:55.113Z"
+  },
+  {
+    "roll_number": "2401921540151",
+    "name": "Nakul Singh",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: 0 / 500, 151 [Not Considered] / 500, 110 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:55.897Z"
+  },
+  {
+    "roll_number": "2401921540280",
+    "name": "Vinayak Singh",
+    "branch": "CSDS",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 300 [Not Considered] / 500, ABSENT / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:55.947Z"
+  },
+  {
+    "roll_number": "2401921690034",
+    "name": "Lavish Harsana",
+    "branch": "CSH",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 0 [Not Considered] / 500, 0 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:58.324Z"
+  },
+  {
+    "roll_number": "2405111530028",
+    "name": "Anshu Raj",
+    "branch": "CSAIML",
+    "error": "Incomplete or invalid marks: ABSENT / 500, 0 [Not Considered] / 500, 0 / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:59.748Z"
+  },
+  {
+    "roll_number": "2501921529012",
+    "name": "Chahat Gupta",
+    "branch": "CSAI",
+    "error": "Incomplete or invalid marks: 0 / 500, 100 / 500, 100 [Not Considered] / 500",
+    "attempts": 3,
+    "updated_at": "2026-10-26T14:26:58.813Z"
+  }
+]
