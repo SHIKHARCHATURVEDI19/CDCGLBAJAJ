@@ -94,7 +94,7 @@ export default function Home() {
                   <div className="rounded-2xl bg-slate-50 p-4"><p className="text-xs font-semibold text-slate-400">Total marks</p><p className="mt-1 text-xl font-bold">{result.totalMarks}<span className="text-sm font-medium text-slate-400">/{result.maximumMarks}</span></p></div>
                   <div className="rounded-2xl bg-slate-50 p-4"><p className="text-xs font-semibold text-slate-400">{result.branch || "Branch"} students</p><p className="mt-1 text-xl font-bold">{result.branchStudentsRanked.toLocaleString()}</p></div>
                 </div>
-                <div className="mt-3 rounded-2xl bg-emerald-50 p-4 text-sm font-semibold text-emerald-700">You ranked above {result.percentile}% of students in your branch.</div>
+                <div className="mt-3 rounded-2xl bg-emerald-50 p-4 text-sm font-semibold text-emerald-700">You ranked above {result.percentile}% of students in the college.</div>
                 <button onClick={() => { setResult(null); setRollNumber(""); }} className="mt-5 text-sm font-bold text-blue-600 hover:text-blue-800">Check another roll number</button>
               </div>
             )}

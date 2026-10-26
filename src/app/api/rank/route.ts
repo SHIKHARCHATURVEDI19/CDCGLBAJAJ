@@ -11,7 +11,7 @@ export async function GET(request: NextRequest) {
     if (student.total_marks === null || student.rank === null) return NextResponse.json({ error: "Your rank is not available because one or more assessment marks are missing." }, { status: 409 });
     const students = (await getStudents()).filter((row) => row.rank !== null);
     const branchStudents = students.filter((row) => (row.branch || "Unknown") === (student.branch || "Unknown"));
-    const below = branchStudents.filter((row) => Number(row.total_marks) < Number(student.total_marks)).length;
+    const below = students.filter((row) => Number(row.total_marks) < Number(student.total_marks)).length;
     const branchRank = 1 + branchStudents.filter((row) => Number(row.total_marks) > Number(student.total_marks)).length;
     return NextResponse.json({
       rollNumber: student.roll_number,
@@ -23,7 +23,7 @@ export async function GET(request: NextRequest) {
       branchRank,
       branchStudentsRanked: branchStudents.length,
       studentsRanked: students.length,
-      percentile: branchStudents.length ? Number(((below / branchStudents.length) * 100).toFixed(1)) : 0,
+      percentile: students.length ? Number(((below / students.length) * 100).toFixed(1)) : 0,
       updatedAt: student.updated_at || new Date().toISOString(),
     });
   } catch {
